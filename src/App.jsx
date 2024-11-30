@@ -1,10 +1,11 @@
 import './App.css'
+import CustomHooks from './week11-customhooks/customhooks'
 
 function App() {
 
   return (
     <>
-      hi there
+      <CustomHooks></CustomHooks>
     </>
   )
 }
