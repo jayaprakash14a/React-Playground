@@ -16,7 +16,6 @@ function CustomHooks() {
             <Posts />
             <br /><br /><br />
             <SearchBar />
-
         </div>
     )
 }
